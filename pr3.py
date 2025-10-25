@@ -18,3 +18,4 @@ def can_fit_task(available_hours, task_hours, task_minutes):
 def schedule_summary(task_name, hours, minutes) :
 task_name = input("enter the name :")
     
+
